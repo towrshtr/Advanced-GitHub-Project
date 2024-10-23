@@ -1,4 +1,4 @@
 function helloWord(){
-    console.log("Hello, GitHub!");
+    console.log("Welcome to advanced GitHub project!");
 }
 helloWord();
